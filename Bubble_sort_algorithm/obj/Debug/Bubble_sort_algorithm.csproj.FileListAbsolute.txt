@@ -1,0 +1,10 @@
+C:\Users\gesha\OneDrive\Desktop\Bubble_sort_algorithm\Bubble_sort_algorithm\bin\Debug\Bubble_sort_algorithm.exe.config
+C:\Users\gesha\OneDrive\Desktop\Bubble_sort_algorithm\Bubble_sort_algorithm\bin\Debug\Bubble_sort_algorithm.exe
+C:\Users\gesha\OneDrive\Desktop\Bubble_sort_algorithm\Bubble_sort_algorithm\bin\Debug\Bubble_sort_algorithm.pdb
+C:\Users\gesha\OneDrive\Desktop\Bubble_sort_algorithm\Bubble_sort_algorithm\obj\Debug\Bubble_sort_algorithm.csprojAssemblyReference.cache
+C:\Users\gesha\OneDrive\Desktop\Bubble_sort_algorithm\Bubble_sort_algorithm\obj\Debug\Bubble_sort_algorithm.Form1.resources
+C:\Users\gesha\OneDrive\Desktop\Bubble_sort_algorithm\Bubble_sort_algorithm\obj\Debug\Bubble_sort_algorithm.Properties.Resources.resources
+C:\Users\gesha\OneDrive\Desktop\Bubble_sort_algorithm\Bubble_sort_algorithm\obj\Debug\Bubble_sort_algorithm.csproj.GenerateResource.cache
+C:\Users\gesha\OneDrive\Desktop\Bubble_sort_algorithm\Bubble_sort_algorithm\obj\Debug\Bubble_sort_algorithm.csproj.CoreCompileInputs.cache
+C:\Users\gesha\OneDrive\Desktop\Bubble_sort_algorithm\Bubble_sort_algorithm\obj\Debug\Bubble_sort_algorithm.exe
+C:\Users\gesha\OneDrive\Desktop\Bubble_sort_algorithm\Bubble_sort_algorithm\obj\Debug\Bubble_sort_algorithm.pdb
